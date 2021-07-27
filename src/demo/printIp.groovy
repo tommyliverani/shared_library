@@ -1,6 +1,6 @@
 package demo;
 
-def printIp() {
+def print() {
   println InetAddress.localHost.canonicalHostName
 }
 

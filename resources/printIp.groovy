@@ -1,3 +1,2 @@
-def call(){
-	println InetAddress.localHost.canonicalHostName
-}
+println InetAddress.localHost.canonicalHostName
+
